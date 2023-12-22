@@ -8,7 +8,7 @@ Artifact will be created in target folder.
 
 docker build -t mavenbuild .
 
-Once this is done u will be able to see image using docker image
+Once this is done u will be able  see image using docker image
 
 Use below command to run the container
 
